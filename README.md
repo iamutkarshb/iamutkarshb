@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 Currently working on web development projects, making the internet awesome!
 - 👯 Enjoy collaborating with developers, learning and growing together.
